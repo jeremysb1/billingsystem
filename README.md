@@ -11,7 +11,11 @@
 
 ## About this Project
 
-I built a billing system to teach myself Rust.
+A billing application with Rust.
 
 ## How I built this
+
+## Technologies Used
+
+Rust
 
